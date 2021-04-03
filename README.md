@@ -19,10 +19,9 @@
 ## Instructed By:
 - [Zeeshan Rafique](https://github.com/zeeshanrafique23)
 ## Pre-Required Tools:
-- Logisim Software [Logisim.](http://www.cburch.com/logisim/download.html)
-- Venus online simulator [Venus](https://venus.cs61c.org/)
-- Github [Github](https://github.com)
-- Git [Git](https://git-scm.com/downloads)
+- [Logisim](http://www.cburch.com/logisim/download.html)
+- [Venus](https://venus.cs61c.org/)
+- [Venus - kvakil](https://www.kvakil.me/venus/)
 ## Implementation/Designing:
 Construct the simple single cycle RISCV (RV32I) processor on logisim,by using 32 bit register file, control unit, immediate generation, ALU and use a Logisim ROM for the instruction memory and a Logisim RAM for the data memory.Firstly, create the 32 bit register file,this register file takes 5-bit address to select one of the 32 registers and write data to it using register enable wire.Secondly, make 32 Bit ALU with 4-bit having operations of ADD,SUB,AND,OR,XOR,slt,sltu,srl,sll,sra,DB which selects which operation to perform according to the instruction.Then make a control unit with the combination of type decode and control decode. Also create additional subcircuits, such as branches, jalr and the sign extension and shift 2, to keep your main circuit manageable and connected these components using wires and tunnel.And then provided register file uses the clock of logisim, also need to connect the PC and Data Memory (RAM) to the clock.
 ## Circuit Diagram:
