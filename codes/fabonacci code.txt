@@ -1,0 +1,8 @@
+    addi x6,x0,1
+up:
+    add x7,x5,x6
+    sw x6,0x0(x0)
+    lw x5,0x0(x0)
+    sw x7,0x0(x0)
+    lw x6,0x0(x0)
+    jal up
