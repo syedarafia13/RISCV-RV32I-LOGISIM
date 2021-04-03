@@ -55,3 +55,6 @@ Construct the simple single cycle RISCV (RV32I) processor on logisim,by using 32
 - bge
 - bltu
 - bgeu
+## References:
+RISCV BOOK https://www.amazon.com/dp/0128122757
+ISA MANUAL https://riscv.org/technical/specifications/
