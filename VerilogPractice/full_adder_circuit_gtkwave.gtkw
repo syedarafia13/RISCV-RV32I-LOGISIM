@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Wed May  5 04:28:36 2021
+[*]
+[dumpfile] "/home/rafia/verilogm/test.vcd"
+[dumpfile_mtime] "Wed May  5 04:25:16 2021"
+[dumpfile_size] 717
+[savefile] "/home/rafia/Desktop/verilog  codes/gtkwave (half_adder,full_adder)/full_adder_circuit_gtkwave.gtkw"
+[timestart] 0
+[size] 1208 736
+[pos] -51 -51
+*-13.000000 5000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] full_adder_circuit_tb.
+[sst_width] 233
+[signals_width] 125
+[sst_expanded] 1
+[sst_vpaned_height] 191
+@28
+full_adder_circuit_tb.full_adder_circuit1.a_i
+full_adder_circuit_tb.full_adder_circuit1.b_i
+full_adder_circuit_tb.full_adder_circuit1.cin_i
+full_adder_circuit_tb.full_adder_circuit1.cout_o
+full_adder_circuit_tb.full_adder_circuit1.fa1
+full_adder_circuit_tb.full_adder_circuit1.fa2
+full_adder_circuit_tb.full_adder_circuit1.fa3
+@29
+full_adder_circuit_tb.full_adder_circuit1.sum_o
+[pattern_trace] 1
+[pattern_trace] 0

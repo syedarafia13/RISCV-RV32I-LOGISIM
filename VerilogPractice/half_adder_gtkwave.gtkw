@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Tue May  4 16:00:16 2021
+[*]
+[dumpfile] "/home/rafia/Desktop/verilog  codes/half_adder_verilog/test.vcd"
+[dumpfile_mtime] "Tue May  4 15:41:28 2021"
+[dumpfile_size] 469
+[savefile] "/home/rafia/Desktop/verilog  codes/half_adder_verilog/half_adder_gtkwave.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-14.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] half_adder_tb.
+[sst_width] 233
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+half_adder_tb.half_adder1.a
+half_adder_tb.half_adder1.b
+half_adder_tb.half_adder1.carry
+half_adder_tb.half_adder1.sum
+half_adder_tb.a_tb
+half_adder_tb.b_tb
+half_adder_tb.carry_tb
+@29
+half_adder_tb.sum_tb
+[pattern_trace] 1
+[pattern_trace] 0
